@@ -28,8 +28,11 @@ Deploying Active Directory (AD) is essential for managing users, devices, and se
 <h2> Walkthrough </h2>
 <p>
 Login to and install Active Directory Domain Services:
-</p>
-<img width="450" alt="Screen Shot 2025-02-20 at 11 43 38 PM" src="https://github.com/user-attachments/assets/c22cf442-9a47-4ba7-a864-2f0512645650" />
+</p><
+      img width="518" alt="Screen Shot 2025-02-21 at 9 24 02 AM" src="https://github.com/user-attachments/assets/5980c3ea-52ac-4124-80ab-0f799ddf793a" />
+
+
+
 
 <p>
 Setup a new forest as your prefered name. It can be anything and install it. Ex: mydomain.com 
