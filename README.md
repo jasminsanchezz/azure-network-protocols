@@ -5,7 +5,7 @@
 <h1> Active Directory Deployment </h1>
 
 <h2> Description </h2>
-Deploying Active Directory (AD) is essential for managing users, devices, and security within an organization. It organizes and controls access to company resources, making it easier to manage permissions and security policies. This improves efficiency, enhances security, and streamlines IT management. in this lab we will also practice loggin in with users!
+Deploying Active Directory (AD) is essential for managing users, devices, and security within an organization. It organizes and controls access to company resources, making it easier to manage permissions and security policies. In this lab, we will set up AD, create users, and practice logging in with users that will be created! 
 
 <h2>Environments and Technologies Used</h2>
 
