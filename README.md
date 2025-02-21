@@ -1,4 +1,4 @@
-<img width="633" alt="Screen Shot 2025-02-20 at 11 40 35 PM" src="https://github.com/user-attachments/assets/7d864c09-6545-4ea3-9703-7ff975234b8e" /><p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -52,6 +52,8 @@ Create a new user named “_ADMINS”
 
 
 Create a new employee 
+</p>
+
 <img width="504" alt="Screen Shot 2025-02-20 at 11 45 48 PM" src="https://github.com/user-attachments/assets/924041b4-a386-4b7d-bbe9-7c9723895cc0" />
 
 
