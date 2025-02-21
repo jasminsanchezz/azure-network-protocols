@@ -33,14 +33,14 @@ Login to and install Active Directory Domain Services
 <img width="450" alt="Screen Shot 2025-02-20 at 11 43 38 PM" src="https://github.com/user-attachments/assets/c22cf442-9a47-4ba7-a864-2f0512645650" />
 
 <p>
-Setup a new forest as mydomain.com (can be anything, just remember what it is) and install it 
+Setup a new forest as your prefered name. It can be anything and install it. Ex: mydomain.com 
 </p>
 <img width="456" alt="Screen Shot 2025-02-20 at 11 44 22 PM" src="https://github.com/user-attachments/assets/f797d12a-3311-4680-b6a1-496254286a5e" />
 
 
-Restart and then log back into DC-1 as user: mydomain.com\labuser
+Restart and then log back into DC-1 as user: x.com\xuser name
 </p>
-<img width="462" alt="Screen Shot 2025-02-20 at 11 44 38 PM" src="https://github.com/user-attachments/assets/fdbdb1ae-2352-4d65-a607-d80f114debbd" />
+<img width="658" alt="Screen Shot 2025-02-21 at 9 04 50 AM" src="https://github.com/user-attachments/assets/7b8cf3c7-e0c0-49f0-b11e-6bfab0a855ee" />
 
 
 
@@ -58,7 +58,7 @@ Create a new employee
 
 
 <p>
-Add to the “Domain Admins” Security Group. Log out / close the connection to DC-1 and log back in 
+Add to the “Domain Admins” Security Group. Log out / close the connection to and log back in. 
 </p>
 <img width="506" alt="Screen Shot 2025-02-20 at 11 46 42 PM" src="https://github.com/user-attachments/assets/5a26dce2-4256-4432-bf50-1337ffa23ec8" />
 
@@ -77,16 +77,13 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there
 <img width="485" alt="Screen Shot 2025-02-20 at 11 42 14 PM" src="https://github.com/user-attachments/assets/29efc97d-fdd7-43f4-8853-f41fdff22f12" />
 
 <p>
-Log into user desktop as (new forest)\(lab user name)
-Open system properties
-Click “Remote Desktop” and allow “domain users” access to remote desktop
+Log into user desktop as x.com\xuser name. Then, open system properties. Click “Remote Desktop” and allow “domain users” access to remote desktop
 </p>
 
 <img width="557" alt="Screen Shot 2025-02-20 at 11 40 51 PM" src="https://github.com/user-attachments/assets/8a6f5936-5cf8-4b5d-a0c5-637fdefa34a1" />
 
 
-Login to DC-1 as jane_admin
-Open PowerShell_ise as an administrator
+Login to DC-1 as admin created. Open PowerShell as an administrator
 Create a new File and paste the contents of the script into it
 Then you will see additional users. 
 </p>
