@@ -29,7 +29,7 @@ Deploying Active Directory (AD) is essential for managing users, devices, and se
 <p>
 Login to and install Active Directory Domain Services:
 </p>
-<img width="513" alt="Screen Shot 2025-02-21 at 9 25 39 AM" src="https://github.com/user-attachments/assets/f82fea9a-4079-44b6-9a32-a27ba0d86832" />
+<img width="383" alt="Screen Shot 2025-02-21 at 9 26 34 AM" src="https://github.com/user-attachments/assets/7a97567c-c471-4b71-b104-5bc45118d428" />
 
 
 
