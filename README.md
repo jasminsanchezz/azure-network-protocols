@@ -82,8 +82,10 @@ Log into user desktop as x.com\xuser name. Then, open system properties. Click â
 
 <img width="557" alt="Screen Shot 2025-02-20 at 11 40 51 PM" src="https://github.com/user-attachments/assets/8a6f5936-5cf8-4b5d-a0c5-637fdefa34a1" />
 
-
-Login to DC-1 as admin created. Open PowerShell as an administrator. Create a new File and paste the contents of the script into it. Lastly, you will see additional users: 
+<h2> Add Users </h2> 
+  
+<p>
+Login to DC-1 as admin created. Open PowerShell as an administrator. Create a new File and paste the contents of the script into it (https://github.com/Xinloiazn/configure-ad/blob/main/adscript.ps1). Lastly, you will see additional users: 
 </p>
 
 <img width="430" alt="Screen Shot 2025-02-20 at 11 40 20 PM" src="https://github.com/user-attachments/assets/54a32d30-a511-42d1-807a-7a6d419000cd" />
