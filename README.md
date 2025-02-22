@@ -18,7 +18,7 @@ Deploying Active Directory (AD) is essential for managing users, devices, and se
 - Windows 10</b> (21H2) Macbook
 - Windows Server 2022
 
-<h2>Configuration Steps </h2>
+<h2>Installation Steps </h2>
 
 - Install the Active Directory Domain Services
 - Promote the Server to a Domain Controller
@@ -26,13 +26,15 @@ Deploying Active Directory (AD) is essential for managing users, devices, and se
 - Join a Computer to the Domain
 
 <h2> Walkthrough </h2>
+Create a Domain Controller Virtual Machine (VM) in Azure using Windows Server 2022. For this project, we will refer to ours as DC-1. Then, create a Windows 10 client VM (ours will be named Client-1). Make sure it is within the same Resource Group and Virtual Network (VNet)
 <p>
+
+
+<img width="501" alt="Screen Shot 2025-02-22 at 1 23 21 AM" src="https://github.com/user-attachments/assets/afeca078-4e95-4629-813f-65747fae2f19" />
+
 Login to and install Active Directory Domain Services:
 </p>
 <img width="383" alt="Screen Shot 2025-02-21 at 9 26 34 AM" src="https://github.com/user-attachments/assets/7a97567c-c471-4b71-b104-5bc45118d428" />
-
-
-
 
 <p>
 Setup a new forest as your prefered name. It can be anything and install it. Ex: mydomain.com 
