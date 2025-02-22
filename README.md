@@ -1,5 +1,5 @@
 <p align="center">
-<img width="580" alt="Screen Shot 2025-02-22 at 1 35 38 AM" src="https://github.com/user-attachments/assets/ffda4a8d-1a12-4518-b2e9-c89eeeef4d3b" />
+<img width="542" alt="Screen Shot 2025-02-22 at 10 40 06 AM" src="https://github.com/user-attachments/assets/a1e0d5ec-dfb2-4359-9bdc-da4f4b2c22b2" />
 
 <h1> Active Directory Deployment </h1>
 
